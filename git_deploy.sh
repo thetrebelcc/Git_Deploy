@@ -16,6 +16,6 @@ done
 
 git add .
 
-git commit -m "Updates"
+git commit -m "Deploy"
 
 git push
